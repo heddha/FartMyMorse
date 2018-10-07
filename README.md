@@ -4,7 +4,7 @@ This repository gives you everything you need to get a unicorn, farting a specif
 
 Use like this:
 
-python3 fartMyMorse.py <sentence> <title>
+python3 fartMyMorse.py SENTENCE TITLE
   
 
 e.g.:
